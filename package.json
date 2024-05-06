@@ -1,0 +1,17 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "keerti",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "node-persist": "^2.1.0",
+    "yargs": "^17.7.2"
+  }
+}
